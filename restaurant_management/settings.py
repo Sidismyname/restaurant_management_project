@@ -127,4 +127,5 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-RESTAURANT_NAME = "Food -e - Elite"
+RESTAURANT_NAME = "Family-e-Dine"
+RESTAURANT_PHONE = "+91 7748394032"
